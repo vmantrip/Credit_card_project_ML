@@ -1,12 +1,12 @@
 # Credit_card_project
 A kaggle dataset containing credit card transactions is analysed to detect frauds using Machine Learning.
 ## Workflow
-1. Construct pandas dataframe after parsin a csv file
-2. Preprocessing of dtaframe to detect missing entries and identify datatypes
-3. Statistical summary of datframe
+1. Construct pandas dataframe after parsing a csv file
+2. Preprocessing of dataframe to detect missing entries and identify datatypes
+3. Statistical summary of dataframe
 4. Eliminating bias in unbalanced dataset.
 5. Implementing "Undersampling" to concatenate dataframes with identical distribution.
-6. Identify features and taregt columns in dataframe.
+6. Identify features and target columns in dataframe.
 7. Split new datframe into testing and training datasets.
 8. Fit and train a Logistic regression model on traing datset.
 9. valuste moel performance using training and testing accuracy scores.
