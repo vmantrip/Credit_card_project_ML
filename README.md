@@ -1,4 +1,4 @@
-# Credit_card_fraud_project
+# Credit_card_project
 A kaggle dataset containing credit card transactions is analysed to detect frauds using Machine Learning.
 ## Workflow
 1. Construct pandas dataframe after parsin a csv file
