@@ -12,10 +12,10 @@ A kaggle dataset containing credit card transactions is analysed to detect fraud
 9. valuste moel performance using training and testing accuracy scores.
 
 ## Outcome
-Achieved training accuray score of 0.9940 and testing accuracy score of 0.9086 for the Logistic regression model.
+Achieved training accuracy score of 0.9940 and testing accuracy score of 0.9086 for the Logistic regression model.
 
 ## Refernces and credits:
 1. https://www.youtube.com/watch?v=NCgjcHLFNDg&list=PL42E6YEnU9xOpl5wt0ftW8QMfQoD1MMfk&index=5
 2. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Thanks to Kaggle for poviding the dataset. Thanks to Siddhadhan on Youtube to aid in easy understanding of the project.
+Thanks to Kaggle for poviding the dataset. Thanks to Siddhardhan on Youtube to aid in easy understanding of the project.
